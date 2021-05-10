@@ -1,2 +1,7 @@
 # RalDsz.github.io
-This is a website for implemage
+This is the official website for implemage 
+Please visit RalDsz.github.io for the final version
+
+Any updates?
+Mail me on megagravity26@gmail.com
+
